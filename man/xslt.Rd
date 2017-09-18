@@ -6,7 +6,7 @@
 \alias{xslt_version}
 \title{XSLT 1.0 Transformations}
 \usage{
-xml_xslt(doc, stylesheet)
+xml_xslt(doc, stylesheet, params)
 
 xslt_version()
 }
@@ -14,6 +14,8 @@ xslt_version()
 \item{doc}{xml document as returned by \link[xml2:read_xml]{xml2::read_xml}}
 
 \item{stylesheet}{another xml document containing the XSL stylesheet}
+
+\item{params}{named list or vector with additional XSLT parameters}
 }
 \description{
 Transform an XML document by applying an XSL stylesheet. Usually returns the
