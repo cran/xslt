@@ -1,10 +1,10 @@
-ca55e4284ac2312552f884d188ebeb01 *DESCRIPTION
-fb2128b03c6610907a88962f7fc91529 *NAMESPACE
-ab08bc2297fa20d664ec0506e76e2209 *NEWS
-3093fae250af25ff616ded13982dba3f *R/RcppExports.R
-dc764a9f6979cbfb5df4aadf9497217f *R/xml_xslt.R
+d3ae4654323e70ece1750bf33600117b *DESCRIPTION
+c74a7e20d534b588a75e4b808e16d2d2 *NAMESPACE
+b8a3b523635309c3b7cf7d5a7d2d1f8d *NEWS
+8bbfe7f75278c94f56fde811cfd4917c *R/RcppExports.R
+5460c4461bca804279b4c13fa4d1e1bb *R/xml_xslt.R
 6071edd604dbeb75308cfbedc7790398 *cleanup
-a9e26a103b40077f71b700b628ef104b *configure
+cf127c650ce5311917af33c3aa441a84 *configure
 d41d8cd98f00b204e9800998ecf8427e *configure.win
 8729e9322e3522ac59acfc5f7c4f5f6e *inst/examples/cd_catalog.xml
 d68c4c1a791db9a8770d38e3eac3b1d4 *inst/examples/cd_catalog.xsl
@@ -12,10 +12,10 @@ d68c4c1a791db9a8770d38e3eac3b1d4 *inst/examples/cd_catalog.xsl
 7107144ffe722c93b0fb1998bb976247 *inst/examples/list.xsl
 3476778133a6ef688ffaaf7c4f1f8035 *man/xslt.Rd
 5b7e45551afb537a5882cdcf6ff01790 *src/Makevars.in
-c042a98300781cb306208ee3be1697b8 *src/Makevars.win
-4035d8ab462fdbba66779e39b39ad841 *src/RcppExports.cpp
+0935c77170200802dc1a5cbf28d48d6d *src/Makevars.win
+e82645f27f37a0447dddbfd5c925426a *src/RcppExports.cpp
 b76992e12f7a78dd47642de4f8745f96 *src/xslt.cpp
-976de446c8dba43a1f53621a743dfded *src/xslt_init.cpp
+80353992a0cbf0b684c96e5913366f2f *src/xslt_init.cpp
 857cf2cf2c6fe1328620321b0e49b351 *src/xslt_types.h
 c189b8747dc38b0c9b3feeeaeb666ffd *tests/testthat.R
 80fa95ee4ea8574f9757be5287de7dc7 *tests/testthat/cd_catalog.html
@@ -23,4 +23,4 @@ c189b8747dc38b0c9b3feeeaeb666ffd *tests/testthat.R
 6fc718f9bc236d38ffd8088e898e6149 *tests/testthat/style.xml
 7aba5949af9369da8b8ba678cdbebfb1 *tests/testthat/test-param.R
 1e20af70e82c931a04c3a0b8077ed27b *tests/testthat/test-xslt.R
-50ce4b1afd65325497a8b4dcce763e94 *tools/winlibs.R
+3e59936d5eff44f9725265ab5a253510 *tools/winlibs.R
