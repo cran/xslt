@@ -25,6 +25,7 @@ fi
 if [[ "$OSTYPE" == "darwin"* ]]; then
   XML2DIR=$(xml2-config --cflags | sed 's#/usr/include$#/usr/include/libxml2#g')
   PKGCONFIG_CFLAGS="${XML2DIR} ${PKGCONFIG_CFLAGS}"
+  PKGCONFIG_LIBS="${PKGCONFIG_LIBS:-$PKG_LIBS}"
 fi
 
 # Note that cflags may be empty in case of success
@@ -32,7 +33,7 @@ if [ "$INCLUDE_DIR" ] || [ "$LIB_DIR" ]; then
   echo "Found INCLUDE_DIR and/or LIB_DIR!"
   PKG_CFLAGS="-I$INCLUDE_DIR $PKG_CFLAGS"
   PKG_LIBS="-L$LIB_DIR $PKG_LIBS"
-elif [ "$PKGCONFIG_CFLAGS" ] || [ "$PKGCONFIG_LIBS" ]; then
+elif [ "$PKGCONFIG_LIBS" ]; then
   echo "Found pkg-config cflags and libs!"
   PKG_CFLAGS=${PKGCONFIG_CFLAGS}
   PKG_LIBS=${PKGCONFIG_LIBS}
