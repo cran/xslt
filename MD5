@@ -1,10 +1,10 @@
-92cb7dcc8c35a7c6c829e2741695d4f5 *DESCRIPTION
+a09657dea5e2fe851164a2ff1d375305 *DESCRIPTION
 c74a7e20d534b588a75e4b808e16d2d2 *NAMESPACE
-6a0f9ac41fa5fb3442df30adde07e5d3 *NEWS
+92a446850bb8e3c7bb07018804c76a41 *NEWS
 8bbfe7f75278c94f56fde811cfd4917c *R/RcppExports.R
 5460c4461bca804279b4c13fa4d1e1bb *R/xml_xslt.R
 6071edd604dbeb75308cfbedc7790398 *cleanup
-cd86b50dbbd0f3627ca4ee864801f000 *configure
+d92a926165888d4ba39f1620fd896390 *configure
 d41d8cd98f00b204e9800998ecf8427e *configure.win
 8729e9322e3522ac59acfc5f7c4f5f6e *inst/examples/cd_catalog.xml
 d68c4c1a791db9a8770d38e3eac3b1d4 *inst/examples/cd_catalog.xsl
