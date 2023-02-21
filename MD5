@@ -1,6 +1,6 @@
-1731337088a4c77c3f7a2d587831f1c2 *DESCRIPTION
+b4ec2eaf631dfe97ca1a6280d60636c1 *DESCRIPTION
 c74a7e20d534b588a75e4b808e16d2d2 *NAMESPACE
-da647678a246b6335bb25567ccc612c0 *NEWS
+7aebd49193482a263fc12962034f9c0e *NEWS
 8bbfe7f75278c94f56fde811cfd4917c *R/RcppExports.R
 5460c4461bca804279b4c13fa4d1e1bb *R/xml_xslt.R
 6071edd604dbeb75308cfbedc7790398 *cleanup
@@ -12,11 +12,10 @@ d68c4c1a791db9a8770d38e3eac3b1d4 *inst/examples/cd_catalog.xsl
 7107144ffe722c93b0fb1998bb976247 *inst/examples/list.xsl
 3476778133a6ef688ffaaf7c4f1f8035 *man/xslt.Rd
 5b7e45551afb537a5882cdcf6ff01790 *src/Makevars.in
-2cec33791efd347cbcb051402d7cf9c4 *src/Makevars.ucrt
-ab1e6db9bc50e53022794897bf7e0f5e *src/Makevars.win
-e82645f27f37a0447dddbfd5c925426a *src/RcppExports.cpp
-b76992e12f7a78dd47642de4f8745f96 *src/xslt.cpp
-80353992a0cbf0b684c96e5913366f2f *src/xslt_init.cpp
+b680d89dd8561476ecad430e727941e0 *src/Makevars.win
+e4a6e77d745a7759abd41166170e1768 *src/RcppExports.cpp
+523998a8fa0376a5e6be9ab7c7db4e6e *src/xslt.cpp
+ebb974054fe1be0932966bd636284748 *src/xslt_init.cpp
 857cf2cf2c6fe1328620321b0e49b351 *src/xslt_types.h
 c189b8747dc38b0c9b3feeeaeb666ffd *tests/testthat.R
 80fa95ee4ea8574f9757be5287de7dc7 *tests/testthat/cd_catalog.html
