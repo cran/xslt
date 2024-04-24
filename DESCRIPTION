@@ -1,5 +1,5 @@
 Package: xslt
-Version: 1.4.4
+Version: 1.4.5
 Title: Extensible Style-Sheet Language Transformations
 Description: An extension for the 'xml2' package to transform XML documents
     by applying an 'xslt' style-sheet.
@@ -17,7 +17,7 @@ License: GPL (>= 2)
 RoxygenNote: 6.0.1
 Suggests: testthat
 NeedsCompilation: yes
-Packaged: 2023-02-21 15:19:49 UTC; jeroen
+Packaged: 2024-04-24 16:09:27 UTC; jeroen
 Author: Jeroen Ooms [aut, cre] (<https://orcid.org/0000-0002-4035-0289>)
 Repository: CRAN
-Date/Publication: 2023-02-21 16:00:02 UTC
+Date/Publication: 2024-04-24 17:20:03 UTC
