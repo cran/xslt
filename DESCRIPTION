@@ -1,11 +1,11 @@
 Package: xslt
-Version: 1.4.5
+Version: 1.4.6
 Title: Extensible Style-Sheet Language Transformations
 Description: An extension for the 'xml2' package to transform XML documents
     by applying an 'xslt' style-sheet.
-Authors@R: person("Jeroen", "Ooms", role = c("aut", "cre"), email = "jeroen@berkeley.edu",
+Authors@R: person("Jeroen", "Ooms", role = c("aut", "cre"), email = "jeroenooms@gmail.com",
       comment = c(ORCID = "0000-0002-4035-0289"))
-Maintainer: Jeroen Ooms <jeroen@berkeley.edu>
+Maintainer: Jeroen Ooms <jeroenooms@gmail.com>
 URL: https://ropensci.r-universe.dev/xslt
         https://docs.ropensci.org/xslt/
 BugReports: https://github.com/ropensci/xslt/issues
@@ -17,7 +17,7 @@ License: GPL (>= 2)
 RoxygenNote: 6.0.1
 Suggests: testthat
 NeedsCompilation: yes
-Packaged: 2024-04-24 16:09:27 UTC; jeroen
+Packaged: 2024-10-03 14:13:24 UTC; jeroen
 Author: Jeroen Ooms [aut, cre] (<https://orcid.org/0000-0002-4035-0289>)
 Repository: CRAN
-Date/Publication: 2024-04-24 17:20:03 UTC
+Date/Publication: 2024-10-04 13:10:02 UTC
